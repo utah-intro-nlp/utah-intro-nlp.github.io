@@ -12,7 +12,7 @@ seo:
 {: .no_toc .mb-2 }
 {{ site.description }}
 <br>
-MoWe / 4:35-5:55 PM	, [WEB 1230](https://map.utah.edu/index.html?code=WEB), [Recordings](https://www.youtube.com/playlist?list=PLbuogVdPnkCoto690B1eTReTznuSC9qYX) 
+MoWe / 11:50am - 1:10pm	, [WEB L102](https://map.utah.edu/index.html?code=WEB), [Recordings](https://www.youtube.com/playlist?list=PLbuogVdPnkCrPZ4Vc-GRnk730SLhC1L43)
 {: .fs-6 .fw-300 }
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -41,11 +41,11 @@ Today it is not unusual to ask chatbots such as ChatGPT to answer something as w
 
 
 Through this **website** we will share:
-* [Schedule](https://utah-explainability.github.io/#calendar) & lecture materials (slides, recordings)
-* Info about [paper discussions]() and [projects]()
-* [FAQ before enrolling](https://utah-explainability.github.io/#faq-before-enrolling)
+* [Schedule](https://utah-intro-nlp.github.io/#calendar) & lecture materials (slides, recordings, readings)
+* [FAQ before enrolling](https://utah-intro-nlp.github.io/#faq-before-enrolling)
 
-Syllabus, announcements, communicating grades, policies, etc. are shared on **Canvas**. Communication will be done through **Piazza**. You will turn in your assignments to **Gradescope**.
+Syllabus, announcements, communicating grades, policies, etc. are shared on **Canvas**. Communication will be done through **Piazza**. You will turn in your assignments to **Gradescope**. **The current page you are on is NOT the syllabus. Please review this syllabus carefully – students are responsible for understanding everything there!
+**
 
 ## Calendar
 
