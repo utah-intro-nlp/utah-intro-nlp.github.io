@@ -1,0 +1,303 @@
+- week: 1
+  days:
+    - date: 8/21
+      format: Lecture (Ana)
+      theme: 
+      topics: Course Logistics
+      recording: "https://youtu.be/unXyBVk_KOo?t=200" 
+      slides:  "https://docs.google.com/presentation/d/1fXxLOHu7pPIMPZmYviUHIql4DITiNeVGgo_mL0ucMEk/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.xty0lzv6hz8s"
+    - date: 8/23
+      format: Lecture (Ana)
+      theme: <b>Background</b>
+      topics: Transformer
+      recording:  "https://youtu.be/dZzVA6VbAR8?feature=shared&t=24"
+      slides: "https://docs.google.com/presentation/d/1uRd7WruSdOhqocVkRZUiHUO-rdVVmaotTOXg6itjhAU/edit?usp=sharing"  
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.ctd9kusjd088"
+
+- week: 2
+  days:
+    - date: 8/28
+      format: Lecture (Ana)
+      theme:  <b>How certain is the model in its prediction?</b>
+      topics: Pretrain-Finetune; Uncertainty quantification
+      recording: "https://youtu.be/fHLSJE9SLIw"
+      slides: "https://docs.google.com/presentation/d/1WQv_0FLamqMvPvqDLg8u5iIHma54Ap7vK9qYOLhWCyg/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.sg90y6h3nok"
+      due:     
+    - date: 8/30
+      format: Lecture (Ana)
+      theme: <b>In plain English, why is this input assigned this label?</b>
+      topics: Prompting; Instruction-finetuning; Chain-of-Thoughts
+      recording:  "https://youtu.be/sa3VbYHhb_o"
+      slides:  "https://docs.google.com/presentation/d/1TXZjv2OhrHWKt8oRIAMfB5gUjj--s_vdNZq6LU-b8Hc/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.xi9gvcze2l1t"
+      due: <span style="color:orange">HW1 (by 8/31)</span>
+
+- week: 3
+  days:
+    - date: 9/4
+      format: Break
+      theme: 
+      topics: <b><span style="color:green">Labor Day (no class)</span></b>  
+      recording:  
+      slides:  
+      readings: 
+      due:
+    - date: 9/6
+      format: Lecture (Ana)
+      theme: cont.
+      topics: Free-text explanations; Human evaluation
+      recording: "https://youtu.be/deetpq313J4" 
+      slides:  "https://docs.google.com/presentation/d/1GZPdcHdzLtZkeV_LIsCqMwiWPBi3ww6fnVKgoVUSYx4/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.8of5bzibyxlw"
+      due: 
+
+- week: 4
+  days:
+    - date: 9/11 
+      format: Discussion
+      theme: cont.
+      topics: <span style="color:blue">In-class paper discussion</span>
+      recording:  
+      slides: "https://docs.google.com/presentation/d/1qu5cgImN-3X4L5P8TfyT1cp2BLKmhKFyMSKUY40sSZo/edit?usp=sharing" 
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.kqhiy2o7wdem"
+      due: <span style="color:blue">Presentation / write-up</span>
+    - date: 9/13    
+      format: Lecture (Ana)
+      theme: 	<b>Which part of the input led to a prediction?</b>
+      topics: Attribution; Gradient-based; Select-then-predict 
+      recording: "https://youtu.be/IYSSjueNLv0?feature=shared" 
+      slides:  "https://docs.google.com/presentation/d/11Te-GrAIBGaoa6JKcvjWs9bLR2HlKOZk-cYLPQMIFYQ/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.eboszg3rsx3z"
+      due: <span style="color:orange">HW2 (by 9/14)</span>
+
+- week: 5
+  days:
+    - date: 9/18
+      format: Discussion
+      theme: cont.
+      topics: <span style="color:blue">In-class paper discussion</span>
+      recording:  
+      slides:  "https://docs.google.com/presentation/d/1Nb5EUZdcndraZ8YcVRBMDRXCAuO7k1pqqEL6nqDB9s4/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.a68klq4cpuk2"
+      due: <span style="color:blue">Presentation / write-up</span>
+    - date: 9/20
+      format: Lecture (Ana)
+      theme: <b>Which human-interpretable concept led to the prediction?</b>
+      topics: Pairwise interaction features (attention-based); Concept-based explanations
+      recording:  "https://www.youtube.com/playlist?list=PLbuogVdPnkCoto690B1eTReTznuSC9qYX"
+      slides: "https://docs.google.com/presentation/d/1OGk76ewruqALLp-3ndoFU23XB949DXz-pAcCiePcj9E/edit?usp=sharing"  
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.x2w3bck6annr"
+      due: 
+- week: 6
+  days:
+    - date: 9/25
+      format: Discussion
+      theme: cont.
+      topics: <span style="color:blue">In-class paper discussion</span>
+      recording:  
+      slides:  "https://docs.google.com/presentation/d/1W5p0qsMDgQVTg7D_nBWbdeyz46RsK9wQ37ARwzhixFQ/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.b5hg5i42hicq"
+      due: <span style="color:blue">Presentation / write-up</span>
+    - date: 9/27
+      format: Lecture (Ana)
+      theme: <b>Which training examples caused the prediction?</b> 
+      topics: Data influence; Influence functions
+      recording: "https://youtu.be/z62J5Fbp_AE?si=sORIouF5ImjLUkML"
+      slides:  "https://docs.google.com/presentation/d/1w7i1r2tJk5dS2Vqwwzqf4ufAdRmP8rGxZeZT7IveU8A/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.lp9cq89eh9cp"
+      due: <span style="color:orange">HW3 (by 9/28)</span>
+
+- week: 7
+  days:
+    - date: 10/2
+      format: Discussion
+      theme: cont.
+      topics: <span style="color:blue">In-class paper discussion</span>
+      recording:  
+      slides:  "https://docs.google.com/presentation/d/128x1Kp4ZYEQFqudWZHEAMDVyx_WnM5IkAlS2cpKTE_o/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.iahvkb4lr319"
+      due: <span style="color:blue">Presentation / write-up</span>
+    - date: 10/4
+      format: Lecture (Ana)
+      theme: <b>Which part of the input should be changed to change the prediction to a given label?</b>
+      topics: Contrastive explanations; Contrastive editing 
+      recording:  "https://youtu.be/gZstQRqERow?feature=shared"
+      slides:  "https://docs.google.com/presentation/d/1ZLhIc8jMBhSKwZ0GPHKBRvqXrIRCiWUNXfuOYC1cC8g/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.1b68zbixmzve"
+      due: <span style="color:orange">HW4 (by 10/5)</span>
+
+- week: 8
+  days:
+    - date: 10/9
+      format: Break
+      theme: 
+      topics: <b><span style="color:green">Fall Break (no class)</span></b>  
+      recording:  
+      slides:  
+      readings:
+      due: 
+    - date: 10/11
+      format: Break
+      theme: 
+      topics: <b><span style="color:green">Fall Break (no class)</span></b>  
+      recording:  
+      slides:  
+      readings:
+      due: 
+
+- week: 9
+  days:
+    - date: 10/16
+      format: Lecture (Ana)
+      theme: <b>Application-grounded evaluations of explanations</b>
+      topics: Reliance and complementary human-AI team performance 
+      recording: "https://youtu.be/vI1t7vxiOHo?si=p0TmkFNWqQUQAxVm"  
+      slides: "https://docs.google.com/presentation/d/1N3RdY2LrWzLTJ0aixv-xYqxhVM3rH5AOCxuS_W1wnRk/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.netvh6d7try6"
+      due: 
+    - date: 10/18
+      format: Group exercise
+      theme: <b><span style="color:purple">In-class group work</span></b>
+      topics: <span style="color:purple">Project framing</span>
+      recording:  
+      slides: 
+      readings: 
+      due: <span style="color:purple">Project proposal</span>
+
+- week: 10
+  days:
+    - date: 10/23
+      format: Lecture (Ana)
+      theme: cont. 
+      topics: Prerequisites, causes, & goals of human trust in AI
+      recording: "https://youtu.be/ZpWJsRqbpWo"  
+      slides:  "https://docs.google.com/presentation/d/1PH08EK0F2foR76_yKNBaVcCIyP6nzdjGsFv6lIJZmCU/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.jergzzmvagtz"
+      due: 
+    - date: 10/25
+      format: Demo
+      theme: cont.
+      topics:  Experimental design for human evaluations, use cases, and challenges (<b>asynchronous learning</b>) 
+      recording:  
+      slides:   
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.mc6m0378qazh"
+      due: 
+
+- week: 11
+  days:
+    - date: 10/30
+      format: Lecture (Ana)
+      theme: cont. 
+      topics: Challenges in fostering (dis)trust in AI
+      recording: "https://youtu.be/M5rDeOMJOFo" 
+      slides:  "https://docs.google.com/presentation/d/1iusUH7H6GwNPZv_s6spaSNO649dWDSTI--BYsLw181c/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.sjjwcqi16e8s"
+      due:
+    - date: 11/1
+      format: Discussion
+      theme: cont.
+      topics: <span style="color:blue">In-class paper discussion</span>
+      recording:  
+      slides:  "https://docs.google.com/presentation/d/1HQnxAmLqTUzOwgJxYYYlkQ8nRZAAHMSFa_OsTchIlRE/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.rnwe43q1elc4"
+      due: <span style="color:blue">Presentation / write-up</span>; <span style="color:purple">2-week project report by 11/2</span>
+
+- week: 12
+  days:
+    - date: 11/6
+      format: Group exercise
+      theme: <b><span style="color:purple">In-class group work</span></b>
+      topics: <span style="color:purple">Peer feedback</span>
+      recording:   
+      slides:  
+      readings:
+      due: <span style="color:purple">Report of changes</span>
+    - date: 11/8
+      format: Lecture (Ana)
+      theme: <b>Explainability as a dialog</b>
+      topics: Principles, roadmap, risks, & opportunities
+      recording: "https://youtu.be/_cjg9_P0Kac" 
+      slides:  "https://docs.google.com/presentation/d/1nT2U46mJoQlt8C4XXLr2b47Y5i9Rk2YSZ10ZQrm6GBs/edit?usp=sharing"
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.bqhl1sttk9ao"
+      due:  
+
+- week: 13
+  days:
+    - date: 11/13
+      format: Group exercise
+      theme: <b><span style="color:purple">Asynchronous group work</span></b>
+      topics: <span style="color:purple">Work on projects</span>
+      recording:   
+      slides:  
+      readings:
+      due:
+    - date: 11/15
+      format: Discussion
+      theme: cont.
+      topics: <span style="color:blue">In-class paper discussion</span>
+      recording:   
+      slides: "https://docs.google.com/presentation/d/1NgTU4Lg3h_-1ckkHroig28JW2TZXtw69hqBUImADes4/edit?usp=sharing"  
+      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.d30azedpmvvw"
+      due: <span style="color:blue">Presentation / write-up</span>
+
+
+- week: 14
+  days:
+    - date: 11/20
+      format: Group exercise
+      theme: <b><span style="color:purple">In-class group work</span></b>
+      topics: <span style="color:purple">Prepare a user study</span>
+      recording:  
+      slides:  "https://docs.google.com/presentation/d/1Ml6XXU3eD7Mf6lvn2X8DdVnZnUNEy4Fb6k9lR_fejZw/edit?usp=sharing"
+      readings:
+      due: <span style="color:purple">User study v1</span>
+
+    - date: 11/22
+      format: Group exercise
+      theme: <b><span style="color:purple">In-class group work</span></b>
+      topics: <span style="color:purple">Peer user studies</span>
+      recording:  
+      slides:  
+      readings:
+      due: <span style="color:purple">User study w/ real values</span>
+
+- week: 15
+  days:
+    - date: 11/27
+      format: Lecture (Ana)
+      theme: <b>Looking back</b>
+      topics: Looking back
+      recording:  "https://youtu.be/yPRgaUqG0Fg"
+      slides:  "https://docs.google.com/presentation/d/1kV-ouFCV5INHPB1eg4XylPh8xI-lUIf6ABIWsOg3oss/edit?usp=drive_link"
+      readings:
+      due: <span style="color:purple">Poster v1 by 11/29</span>
+    - date: 11/29
+      format: Group exercise
+      theme: <b><span style="color:purple">In-class group work</span></b>
+      topics: <span style="color:purple">Finalizing posters</span>
+      recording:  
+      slides:  
+      readings:
+      due: <span style="color:purple">Poster final version</span>
+
+
+- week: 16
+  days:
+    - date: 12/4
+      format: Exam
+      theme: <b>Exam</b>
+      topics: Exam
+      recording:  
+      slides:  
+      readings:
+      due: 
+    - date: 12/6
+      format: Group exercise
+      theme:
+      topics: <span style="color:purple">Poster presentations</span>
+      recording:  
+      slides:  
+      readings:
+      due: <span style="color:purple">Poster questionnaire</span>
