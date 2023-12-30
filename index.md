@@ -117,13 +117,10 @@ This course is designed for computer science majors. We expect that you:
 * ...are experienced with programming in Python – we won't be reviewing your your code directly and we expect you to figure out the implementation side on your own; we are here to help you with understanding concepts and translating ideas into pseudocode, 
 * ...are comfortable with basic calculus, probability, and linear algebra, 
 * ...have some familiarity with machine learning and deep learning, 
-* ...can quickly pick up coding in [pytorch](https://pytorch.org/).
+* ...can quickly pick up coding in [pytorch](https://pytorch.org/),
+* ...are interested in language and don't aim to just deepen your machine learning knowledge.
 
 If you completed CS 5353/6353 (Deep Learning), CS 5350/6350 (Machine Learning), CS 6957 (NLP with Neural Networks), or CS 6966/5966 (Local Explanations for Deep Learning Models), we expect you will be able to keep up. 
-
-
-**<span style="color: black;">My advice:</span>** If you are interested in the course, **give it a  try**. We will spend the first two weeks going over the background and have a graded programming assignment about it. If you struggle with the background concepts and the first homework, you can withdraw---students may drop a course within the first two weeks of a given semester without any penalties. 
-
 
 **<span style="color: black;">Revisiting/polishing your knowledge.</span>** You can prepare by:
 
