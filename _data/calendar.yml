@@ -128,8 +128,8 @@
       format: 
       theme: 
       topics: <Midterm course feedback; Midterm review
-      recording:  
-      slides:  
+      recording: ""  
+      slides: "" 
       readings:
       due: 
     - date: 2/28
@@ -163,22 +163,21 @@
 
 - week: 10
   days:
-    - date: 10/23
+    - date: 3/11
       format: Lecture (Ana)
-      theme: cont. 
-      topics: Prerequisites, causes, & goals of human trust in AI
-      recording: "https://youtu.be/ZpWJsRqbpWo"  
-      slides:  "https://docs.google.com/presentation/d/1PH08EK0F2foR76_yKNBaVcCIyP6nzdjGsFv6lIJZmCU/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.jergzzmvagtz"
-      due: 
-    - date: 10/25
+      theme: <b>Linguistic Structure Prediction</b> 
+      topics: Motivation
+      recording: ""
+      slides:  ""
+      readings: "" 
+      due: <span style="color:orange">HW3 released</span>
+    - date: 3/13
       format: Demo
       theme: cont.
-      topics:  Experimental design for human evaluations, use cases, and challenges (<b>asynchronous learning</b>) 
-      recording:  
-      slides:   
-      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.mc6m0378qazh"
-      due: 
+      topics: Syntax; Context free-grammars; Constituency parsing 
+      recording: ""
+      slides:  ""
+      readings: "" 
 
 - week: 11
   days:
