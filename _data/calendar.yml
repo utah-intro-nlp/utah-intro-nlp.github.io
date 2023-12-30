@@ -18,12 +18,12 @@
 - week: 2
   days:
     - date: 1/15
-      format: Lecture (Ana)
+      format: Break
       theme:  
       topics: <b><span style="color:green">MLK Day (no class)</span></b>  
-      recording: ""
-      slides:  ""
-      readings: ""    
+      recording: 
+      slides:  
+      readings:    
     - date: 1/17
       format: Lecture (Ana)
       theme: cont.
@@ -34,13 +34,13 @@
 
 - week: 3
   days:
-    - date: 9/4
-      format: Break
-      theme: 
-      topics: <b><span style="color:green">Labor Day (no class)</span></b>  
-      recording:  
-      slides:  
-      readings: 
+    - date: 1/22
+      format: 
+      theme: cont.
+      topics: Features; n-grams; Word embeddings
+      recording: ""
+      slides:  ""
+      readings: ""  
       due:
     - date: 9/6
       format: Lecture (Ana)
