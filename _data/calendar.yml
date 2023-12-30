@@ -181,117 +181,118 @@
 
 - week: 11
   days:
-    - date: 10/30
+    - date: 3/18
       format: Lecture (Ana)
       theme: cont. 
-      topics: Challenges in fostering (dis)trust in AI
+      topics: Dependency parsing 
       recording: "https://youtu.be/M5rDeOMJOFo" 
       slides:  "https://docs.google.com/presentation/d/1iusUH7H6GwNPZv_s6spaSNO649dWDSTI--BYsLw181c/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.sjjwcqi16e8s"
       due:
-    - date: 11/1
-      format: Discussion
+    - date: 3/20
+      format: 
       theme: cont.
-      topics: <span style="color:blue">In-class paper discussion</span>
-      recording:  
-      slides:  "https://docs.google.com/presentation/d/1HQnxAmLqTUzOwgJxYYYlkQ8nRZAAHMSFa_OsTchIlRE/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.rnwe43q1elc4"
-      due: <span style="color:blue">Presentation / write-up</span>; <span style="color:purple">2-week project report by 11/2</span>
+      topics: Part-of-speech tagging, Named entity recognition; Hiden Markov models
+      recording: ""
+      slides:  ""
+      readings: "" 
 
 - week: 12
   days:
-    - date: 11/6
-      format: Group exercise
-      theme: <b><span style="color:purple">In-class group work</span></b>
-      topics: <span style="color:purple">Peer feedback</span>
-      recording:   
-      slides:  
-      readings:
-      due: <span style="color:purple">Report of changes</span>
-    - date: 11/8
+    - date: 3/25
+      format: 
+      theme: cont.
+      topics: Viterbi algorithm; Forward/backward probabilities; Conditional Random Fields
+      recording: ""
+      slides:  ""
+      readings: "" 
+    - date: 3/27
       format: Lecture (Ana)
-      theme: <b>Explainability as a dialog</b>
-      topics: Principles, roadmap, risks, & opportunities
-      recording: "https://youtu.be/_cjg9_P0Kac" 
-      slides:  "https://docs.google.com/presentation/d/1nT2U46mJoQlt8C4XXLr2b47Y5i9Rk2YSZ10ZQrm6GBs/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.bqhl1sttk9ao"
-      due:  
+      theme: cont.
+      topics: Logical semantics; Predicate-argument semantics
+      recording: ""
+      slides:  ""
+      readings: "" 
+      due: <span style="color:orange">HW3 due (by 3/28)</span>
 
 - week: 13
   days:
-    - date: 11/13
-      format: Group exercise
-      theme: <b><span style="color:purple">Asynchronous group work</span></b>
-      topics: <span style="color:purple">Work on projects</span>
-      recording:   
-      slides:  
-      readings:
-      due:
-    - date: 11/15
-      format: Discussion
+    - date: 4/1
+      format: 
       theme: cont.
-      topics: <span style="color:blue">In-class paper discussion</span>
-      recording:   
-      slides: "https://docs.google.com/presentation/d/1NgTU4Lg3h_-1ckkHroig28JW2TZXtw69hqBUImADes4/edit?usp=sharing"  
-      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.d30azedpmvvw"
-      due: <span style="color:blue">Presentation / write-up</span>
+      topics: Coreference resolution; Discourse
+      recording: ""
+      slides:  ""
+      readings: "" 
+    - date: 4/3
+      format: 
+      theme: <b>Beyond Text</b> 
+      topics: Pragmatics
+      recording: ""
+      slides:  ""
+      readings: "" 
 
 
 - week: 14
   days:
-    - date: 11/20
-      format: Group exercise
-      theme: <b><span style="color:purple">In-class group work</span></b>
+    - date: 4/8
+      format: cont.
+      theme: Vision and language; Speech
       topics: <span style="color:purple">Prepare a user study</span>
-      recording:  
-      slides:  "https://docs.google.com/presentation/d/1Ml6XXU3eD7Mf6lvn2X8DdVnZnUNEy4Fb6k9lR_fejZw/edit?usp=sharing"
-      readings:
-      due: <span style="color:purple">User study v1</span>
+      recording: ""
+      slides:  ""
+      readings: "" 
 
-    - date: 11/22
-      format: Group exercise
-      theme: <b><span style="color:purple">In-class group work</span></b>
-      topics: <span style="color:purple">Peer user studies</span>
-      recording:  
-      slides:  
-      readings:
-      due: <span style="color:purple">User study w/ real values</span>
+    - date: 4/10
+      format: 
+      theme: <b>Responsible NLP</b>
+      topics: Data transparency; Reliable evaluation; Policy
+      recording: ""
+      slides:  ""
+      readings: "" 
 
 - week: 15
   days:
-    - date: 11/27
+    - date: 4/15
       format: Lecture (Ana)
-      theme: <b>Looking back</b>
-      topics: Looking back
-      recording:  "https://youtu.be/yPRgaUqG0Fg"
-      slides:  "https://docs.google.com/presentation/d/1kV-ouFCV5INHPB1eg4XylPh8xI-lUIf6ABIWsOg3oss/edit?usp=drive_link"
-      readings:
-      due: <span style="color:purple">Poster v1 by 11/29</span>
-    - date: 11/29
-      format: Group exercise
-      theme: <b><span style="color:purple">In-class group work</span></b>
-      topics: <span style="color:purple">Finalizing posters</span>
-      recording:  
-      slides:  
-      readings:
-      due: <span style="color:purple">Poster final version</span>
+      theme: cont.
+      topics: (Mechanistic) interpretability; Explainability; Safety with the focus on diversity 
+      recording: ""
+      slides:  ""
+      readings: "" 
+    - date: 4/17
+      format: 
+      theme: cont.
+      topics: Buffer
+      recording: ""
+      slides:  ""
+      readings: "" 
+      due: <span style="color:orange">FP due (by 4/18)</span>
 
 
 - week: 16
   days:
-    - date: 12/4
-      format: Exam
-      theme: <b>Exam</b>
-      topics: Exam
+    - date: 4/22
+      format: 
+      theme: 
+      topics: Final course feedback; Final review
       recording:  
       slides:  
       readings:
       due: 
-    - date: 12/6
-      format: Group exercise
-      theme:
-      topics: <span style="color:purple">Poster presentations</span>
+    - date: 4/24
+      format: 
+      theme: <b><span style="color:green">Reading day (no class)</span></b>
+      topics: 
       recording:  
       slides:  
       readings:
-      due: <span style="color:purple">Poster questionnaire</span>
+    - date: 4/26
+      format: 
+      theme: <b><span style="color:purple">Final exam (10:30 am – 12:30 pm)</span></b>
+      topics: 
+      recording:  
+      slides:  
+      readings:
+      due: 
+
