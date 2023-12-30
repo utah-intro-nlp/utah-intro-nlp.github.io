@@ -42,7 +42,7 @@ Through this **website** we will share:
 * [Schedule](https://utah-intro-nlp.github.io/#calendar) & lecture materials (slides, recordings, readings)
 * [FAQ before enrolling](https://utah-intro-nlp.github.io/#faq-before-enrolling)
 
-Syllabus, announcements, communicating grades, policies, etc. are shared on **Canvas**. **The current page you are on is NOT the syllabus. Please review this syllabus carefully – students are responsible for understanding everything there!**
+Syllabus, announcements, communicating grades, policies, etc. are shared on **Canvas**. The current page you are on is **NOT** the syllabus. **Please review this syllabus carefully – students are responsible for understanding everything there!**
 
 Communication will be done through **Piazza**. You will turn in your assignments to **Gradescope**. 
 

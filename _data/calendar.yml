@@ -1,12 +1,12 @@
 - week: 1
   days:
-    - date: 8/21
+    - date: 1/8
       format: Lecture (Ana)
       theme: 
-      topics: Course Logistics
-      recording: "https://youtu.be/unXyBVk_KOo?t=200" 
-      slides:  "https://docs.google.com/presentation/d/1fXxLOHu7pPIMPZmYviUHIql4DITiNeVGgo_mL0ucMEk/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.xty0lzv6hz8s"
+      topics: Course Logistics; Intro to NLP
+      recording: ""
+      slides:  ""
+      readings: ""
     - date: 8/23
       format: Lecture (Ana)
       theme: <b>Background</b>
