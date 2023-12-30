@@ -82,21 +82,21 @@
     - date: 2/7
       format: Lecture (Ana)
       theme: cont.
-      topics: Pretraining; Decoders (GPT); MLM; Encoders (BERT); Encoder-Decoders (T5); Finetuning
+      topics: Pretraining; Decoders (GPT); MLM; Encoders (BERT); Encoder-Decoders (T5); Finetuning (FT)
       recording: ""
       slides:  ""
       readings: "" 
       due: 
 - week: 6
   days:
-    - date: 9/25
-      format: Discussion
+    - date: 2/12
+      format: 
       theme: cont.
-      topics: <span style="color:blue">In-class paper discussion</span>
+      topics: In-context learning; Instruction FT (FLAN-T5); Learning from human feedback (LLaMA-2)
       recording:  
-      slides:  "https://docs.google.com/presentation/d/1W5p0qsMDgQVTg7D_nBWbdeyz46RsK9wQ37ARwzhixFQ/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.b5hg5i42hicq"
-      due: <span style="color:blue">Presentation / write-up</span>
+      recording: ""
+      slides:  ""
+      readings: "" 
     - date: 9/27
       format: Lecture (Ana)
       theme: <b>Which training examples caused the prediction?</b> 
