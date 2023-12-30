@@ -124,41 +124,42 @@
 
 - week: 8
   days:
-    - date: 10/9
-      format: Break
+    - date: 2/26
+      format: 
       theme: 
-      topics: <b><span style="color:green">Fall Break (no class)</span></b>  
+      topics: <Midterm course feedback; Midterm review
       recording:  
       slides:  
       readings:
       due: 
-    - date: 10/11
-      format: Break
+    - date: 2/28
+      format: 
       theme: 
-      topics: <b><span style="color:green">Fall Break (no class)</span></b>  
+      topics: <b><span style="color:purple">Midterm exam</span></b>  
       recording:  
       slides:  
       readings:
       due: 
 
+
 - week: 9
   days:
-    - date: 10/16
-      format: Lecture (Ana)
-      theme: <b>Application-grounded evaluations of explanations</b>
-      topics: Reliance and complementary human-AI team performance 
-      recording: "https://youtu.be/vI1t7vxiOHo?si=p0TmkFNWqQUQAxVm"  
-      slides: "https://docs.google.com/presentation/d/1N3RdY2LrWzLTJ0aixv-xYqxhVM3rH5AOCxuS_W1wnRk/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.netvh6d7try6"
-      due: 
-    - date: 10/18
-      format: Group exercise
-      theme: <b><span style="color:purple">In-class group work</span></b>
-      topics: <span style="color:purple">Project framing</span>
+    - date: 3/4
+      format: Break
+      theme: 
+      topics: <b><span style="color:green">Spring Break (no class)</span></b>  
       recording:  
-      slides: 
-      readings: 
-      due: <span style="color:purple">Project proposal</span>
+      slides:  
+      readings:
+      due: 
+    - date: 3/4
+      format: Break
+      theme: 
+      topics: <b><span style="color:green">Spring Break (no class)</span></b>  
+      recording:  
+      slides:  
+      readings:
+      due: 
 
 - week: 10
   days:
