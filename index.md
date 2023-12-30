@@ -38,13 +38,15 @@ MoWe / 11:50am - 1:10pm	, [WEB L102](https://map.utah.edu/index.html?code=WEB), 
 
 Course description coming soon.
 
-
 Through this **website** we will share:
 * [Schedule](https://utah-intro-nlp.github.io/#calendar) & lecture materials (slides, recordings, readings)
 * [FAQ before enrolling](https://utah-intro-nlp.github.io/#faq-before-enrolling)
 
-Syllabus, announcements, communicating grades, policies, etc. are shared on **Canvas**. Communication will be done through **Piazza**. You will turn in your assignments to **Gradescope**. **The current page you are on is NOT the syllabus. Please review this syllabus carefully – students are responsible for understanding everything there!**
-**
+Syllabus, announcements, communicating grades, policies, etc. are shared on **Canvas**. Communication will be done through **Piazza**. You will turn in your assignments to **Gradescope**. 
+
+**The current page you are on is NOT the syllabus. Please review this syllabus carefully – students are responsible for understanding everything there!**
+
+Many links on this website can be accessed only with your gcloud.utah.edu account.
 
 ## Calendar
 
@@ -100,8 +102,8 @@ TBD
 
 Your performance in this course will be evaluated by:
 
-* [programming homework assignments](https://utah-explainability.github.io/assignments/homework/) (30%)
-* [final project](https://utah-explainability.github.io/assignments/project/) (30%)
+* [programming homework assignments](https://drive.google.com/drive/folders/1rL_NBVbnnbDuewV-_WnslwlNXB5hFUgg?usp=sharing) (30%)
+* [final project](https://drive.google.com/drive/folders/1vc4UddSTgBZroD542DOmX-I-QWaXUEj0?usp=sharing) (30%)
 * midterm exam (20%)
 * final exam (20%)
 
