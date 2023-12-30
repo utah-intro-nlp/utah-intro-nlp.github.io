@@ -79,13 +79,13 @@
       slides:  ""
       readings: "" 
       due: <span style="color:orange">HW2 released</span>
-    - date: 9/20
+    - date: 2/7
       format: Lecture (Ana)
-      theme: <b>Which human-interpretable concept led to the prediction?</b>
-      topics: Pairwise interaction features (attention-based); Concept-based explanations
-      recording:  "https://www.youtube.com/playlist?list=PLbuogVdPnkCoto690B1eTReTznuSC9qYX"
-      slides: "https://docs.google.com/presentation/d/1OGk76ewruqALLp-3ndoFU23XB949DXz-pAcCiePcj9E/edit?usp=sharing"  
-      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.x2w3bck6annr"
+      theme: cont.
+      topics: Pretraining; Decoders (GPT); MLM; Encoders (BERT); Encoder-Decoders (T5); Finetuning
+      recording: ""
+      slides:  ""
+      readings: "" 
       due: 
 - week: 6
   days:
