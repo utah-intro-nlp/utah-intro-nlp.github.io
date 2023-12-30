@@ -31,6 +31,7 @@
       recording: ""
       slides:  ""
       readings: ""
+      due: 1/19 drop deadline
 
 - week: 3
   days:
@@ -42,14 +43,14 @@
       slides:  ""
       readings: ""  
       due:
-    - date: 9/6
+    - date: 1/24
       format: Lecture (Ana)
       theme: cont.
-      topics: Free-text explanations; Human evaluation
-      recording: "https://youtu.be/deetpq313J4" 
-      slides:  "https://docs.google.com/presentation/d/1GZPdcHdzLtZkeV_LIsCqMwiWPBi3ww6fnVKgoVUSYx4/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.8of5bzibyxlw"
-      due: 
+      topics: Neural networks basics
+      recording: ""
+      slides:  ""
+      readings: "" 
+      due: <span style="color:orange">HW1 due on 1/25</span>
 
 - week: 4
   days:
