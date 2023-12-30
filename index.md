@@ -106,22 +106,20 @@ Your performance in this course will be evaluated by:
 * [final project](https://drive.google.com/drive/folders/1vc4UddSTgBZroD542DOmX-I-QWaXUEj0?usp=sharing) (30%)
 * midterm exam (20%)
 * final exam (20%)
-
 </details>                   
 <br/>
 
-
 <details><summary markdown="span"><b>Formal pre-requisites? Expected background?</b> [Click to expand!]</summary>    
 
-This course doesn't have formal pre-requisites because these days one can learn about machine learning and adjacent topics in many different ways, but we expected that you...
+The formal pre-requisite is C- or better in CS 3505.
 
-* ...are experienced with programming in Python, 
+This course is designed for computer science majors. We expect that you:
+* ...are experienced with programming in Python – we won't be reviewing your your code directly and we expect you to figure out the implementation side on your own; we are here to help you with understanding concepts and translating ideas into pseudocode, 
 * ...are comfortable with basic calculus, probability, and linear algebra, 
-* ...have solid machine learning foundations, 
-* ...have some familiarity with [pytorch](https://pytorch.org/), 
-* ...are acquainted with Deep Learning 101. 
+* ...have some familiarity with machine learning and deep learning, 
+* ...can quickly pick up coding in [pytorch](https://pytorch.org/).
 
-If you completed CS 5353/6353 (Deep Learning) or CS 5350/6350 (Machine Learning), we expect you will be able to keep up. 
+If you completed CS 5353/6353 (Deep Learning), CS 5350/6350 (Machine Learning), CS 6957 (NLP with Neural Networks), or CS 6966/5966 (Local Explanations for Deep Learning Models), we expect you will be able to keep up. 
 
 
 **<span style="color: black;">My advice:</span>** If you are interested in the course, **give it a  try**. We will spend the first two weeks going over the background and have a graded programming assignment about it. If you struggle with the background concepts and the first homework, you can withdraw---students may drop a course within the first two weeks of a given semester without any penalties. 
@@ -131,13 +129,13 @@ If you completed CS 5353/6353 (Deep Learning) or CS 5350/6350 (Machine Learning)
 
 1. There are a ton of Python resources for people with some programming experience. Check them out [here](https://wiki.python.org/moin/BeginnersGuide/Programmers). My colleagues suggest these: [1](https://www.learnpython.org/), [2](https://diveintopython3.net/), [3](https://snakify.org/en/), and [4](https://runestone.academy/ns/books/published/thinkcspy/index.html?mode=browsing).
 
-2. Math and machine learning basics are nicely covered in the first part of the [Deep Learning book](https://www.deeplearningbook.org/). Obviously, you can use the same book to familiarize yourself with deep learning, especially with the contents of Chapter 6 and Chapter 8 that are a must for this course. 
+2. Math and machine learning basics are nicely covered in the first part of the [Deep Learning book](https://www.deeplearningbook.org/). Obviously, you can use the same book to familiarize yourself with deep learning.
 
 3. [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) (highly recommended)
 
 4. [Practical Deep Learning for Coders by Fast.ai](https://course.fast.ai/) (3: Neural net foundations; 5: From-scratch model, 13: Backpropagation & MLP, 14: Backpropagation)
 
-5. [Getting started with NLP for absolute beginners](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners) is good to familiarize yourself a bit with NLP. During the semester we will use [huggingface](https://huggingface.co/course)
+5. [Getting started with NLP for absolute beginners](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners) is good to familiarize yourself a bit with NLP. During the semester we will use [huggingface](https://huggingface.co/course).
 
 </details>                   
 <br/>
