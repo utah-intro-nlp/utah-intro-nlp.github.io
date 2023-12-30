@@ -54,33 +54,31 @@
 
 - week: 4
   days:
-    - date: 9/11 
-      format: Discussion
-      theme: cont.
-      topics: <span style="color:blue">In-class paper discussion</span>
-      recording:  
-      slides: "https://docs.google.com/presentation/d/1qu5cgImN-3X4L5P8TfyT1cp2BLKmhKFyMSKUY40sSZo/edit?usp=sharing" 
-      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.kqhiy2o7wdem"
-      due: <span style="color:blue">Presentation / write-up</span>
-    - date: 9/13    
+    - date: 1/29
+      format: 
+      theme: <b>Language Modeling (LM)</b>
+      topics: n-gram LM; RNNs and their shortcomings
+      recording: ""
+      slides:  ""
+      readings: "" 
+    - date: 1/31  
       format: Lecture (Ana)
-      theme: 	<b>Which part of the input led to a prediction?</b>
-      topics: Attribution; Gradient-based; Select-then-predict 
-      recording: "https://youtu.be/IYSSjueNLv0?feature=shared" 
-      slides:  "https://docs.google.com/presentation/d/11Te-GrAIBGaoa6JKcvjWs9bLR2HlKOZk-cYLPQMIFYQ/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.eboszg3rsx3z"
-      due: <span style="color:orange">HW2 (by 9/14)</span>
+      theme: 	<b>Machine Translation (MT)</b>
+      topics: Statistical MT; Conditional text generation; Decoding methods
+      recording: ""
+      slides:  ""
+      readings: "" 
 
 - week: 5
   days:
-    - date: 9/18
-      format: Discussion
-      theme: cont.
-      topics: <span style="color:blue">In-class paper discussion</span>
-      recording:  
-      slides:  "https://docs.google.com/presentation/d/1Nb5EUZdcndraZ8YcVRBMDRXCAuO7k1pqqEL6nqDB9s4/edit?usp=sharing"
-      readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.a68klq4cpuk2"
-      due: <span style="color:blue">Presentation / write-up</span>
+    - date: 2/5
+      format: 
+      theme: <b>Modern (Large) Language Models</b>
+      topics: Attention; Self-attention (SA); Multi-headed SA; Positional embeddings; Transformers
+      recording: ""
+      slides:  ""
+      readings: "" 
+      due: <span style="color:orange">HW2 released</span>
     - date: 9/20
       format: Lecture (Ana)
       theme: <b>Which human-interpretable concept led to the prediction?</b>
