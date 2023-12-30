@@ -36,7 +36,7 @@ MoWe / 11:50am - 1:10pm	, [WEB L102](https://map.utah.edu/index.html?code=WEB), 
 
 ---
 
-Today it is not unusual to ask chatbots such as ChatGPT to answer something as well as explain the answer in plain English. In this course, we will review five types of methods for explaining individual predictions of deep learning models for NLP/computer vision tasks that preceded this remarkable achievement. We will then revisit evaluations of these methods and focus on how to develop and evaluate explainability methods that best accomplish a concrete, real-world utility. For more information read [FAQ](https://utah-explainability.github.io/#faq-before-enrolling). 
+Course description coming soon.
 
 
 Through this **website** we will share:
@@ -88,26 +88,10 @@ The calendar and readings are **tentative** and **subject to change**.
 ## FAQ Before Enrolling
 
 {::options parse_block_html="true" /}
-<details><summary markdown="span"><b>Is attending the class in person mandatory? </b> [Click to expand!]</summary>              
-
-Six paper discussions, five in-class group activites, exam, and poster presentations **must be attended in person**. Given that this makes 13 class session in total, the instructor does **not** recommend enrolling in this class if you can't attend it in person.
-
-</details>                   
-<br/>
 
 <details><summary markdown="span"><b>What will you learn in this course? </b> [Click to expand!]</summary>
 
-* **Train a transformer-based model** for an NLP or computer vision application, **obtain its predictions**, and apply common explainability methods (covered in lectures) to **explain the predictions**. Four <u>homework assignments</u> are designed to work on this. 
-
-* **Define utility/function of an explanation for a given application.** This course should teach you to ask: “What will best accomplish the explanatory functions [I hope to achieve in this case]?” (specific; application-based) instead of “Is this an appropriate explanation [in this case]?” (generic; very common in current ML research). A successful <u>project proposal</u>  (a component of the grade) has to define an appropriate function.
-
-* **Identify and apply a method that creates appropriate explanations for a desired utility/function.** A successful <u>intermediate project status</u> report should identify such a method.
-
-* Conduct a **user study** to evaluate produced explanations based on their utility. The course has a <u>dedicated session</u> for preparing an interface for a user study and <u>another session</u> for conducting it with class peers. Having a user study ready ready for the class is a component of the project grade as well as a successful <u>final project presentation</u> that shows how well explanations accomplish the explanatory function according to the study.
-
-* **Read cutting-edge research publications** requiring being acquainted with the principles and concepts of explainable ML. There will be <u>six class sessions devoted to paper discussions</u>. This part of the course will be organized as a role-playing paper reading seminar with 5 regular roles: original author, scientific peer reviewer, archaeologist, imaginative researcher, and original author of a related paper. Those who are not assigned to be the official presenters will either play a wild card role (any role they’d like to be, such as an industry practitioner, a cranky researcher, etc.) or complete a written artifact (a study notes, a blog post, an opinion piece, a scribe of the class discussion). This format requires everyone to actually read the papers and engage in the discussion about them. The paper discussion is one of the main components of the grade. 
-
-* Follow an *ACL/EMNLP (leading NLP conferences) review style to properly **review a research paper** on explainable ML. One of the roles in the role-playing paper discussion is “scientific peer reviewer”. You will <u>take that role once</u> and your review will contribute to your paper discussion grade. 
+TBD
 
 </details>                   
 <br/>
@@ -117,39 +101,15 @@ Six paper discussions, five in-class group activites, exam, and poster presentat
 Your performance in this course will be evaluated by:
 
 * [programming homework assignments](https://utah-explainability.github.io/assignments/homework/) (30%)
-* [in-class paper discussions](https://utah-explainability.github.io/assignments/paper_discussions/) (30%)
-* [project](https://utah-explainability.github.io/assignments/project/) (30%)
-* final exam (10%)
+* [final project](https://utah-explainability.github.io/assignments/project/) (30%)
+* midterm exam (20%)
+* final exam (20%)
 
 </details>                   
 <br/>
 
-<details><summary markdown="span"><b>Which modalities does this course cover?</b> [Click to expand!]</summary>    
 
-We will almost exclusively talk about **applications in NLP (so text)** and in computer vision with **static images**. Inputs in these domains are represented with [embeddings](https://course18.fast.ai/lessonsml1/lesson11.html)---high-dimensional vectors of floating point numbers whose individual dimensions are not interpretable. If you are interested in applications that fall under data science, you will instead likely work with "meaningful" features such as income of a person or zip code of a certain location. This course is not about such applications. We hope you find the course useful even if the data you work with is handled differently from text or images. We believe it can be inspiring to think whether these methods can be applied to a different domain, and realizing that they cannot, can be useful.
-</details>                   
-<br/>
-
-<details><summary markdown="span"><b>Which machine learning models does this course cover?</b> [Click to expand!]</summary>    
-
-We focus on deep learning models (deep neural networks) and we will almost solely talk about [transformer](http://jalammar.github.io/illustrated-transformer/)-based models. 
-
-</details>                   
-<br/>
-
-<details><summary markdown="span"><b>Local vs. global explanations?</b> [Click to expand!]</summary>    
-
-This course will **not** focus on [global methods](https://christophm.github.io/interpretable-ml-book/scope-of-interpretability.html) that analyze models'  behavior and internals such as [probing](https://nlp.stanford.edu/~johnhew/interpreting-probes.html). We focus on methods that answer questions such as: 
-
-* Which part of the input led to assigning this label?             
-* How to edit the input to change the model's answer to something else?                           
-* In plain English, why is this input assigned this label?                   
-* Which training examples caused the prediction?  
-
-</details>                   
-<br/>
-
-<details><summary markdown="span"><b>Formal pre-requisites? How to prepare?</b> [Click to expand!]</summary>    
+<details><summary markdown="span"><b>Formal pre-requisites? Expected background?</b> [Click to expand!]</summary>    
 
 This course doesn't have formal pre-requisites because these days one can learn about machine learning and adjacent topics in many different ways, but we expected that you...
 
@@ -159,7 +119,7 @@ This course doesn't have formal pre-requisites because these days one can learn 
 * ...have some familiarity with [pytorch](https://pytorch.org/), 
 * ...are acquainted with Deep Learning 101. 
 
-If you completed CS 5353/6353 (Deep Learning) or CS 5340/6340 (Natural Language Processing) or CS 5350/6350 (Machine Learning), we expect you will be able to keep up. 
+If you completed CS 5353/6353 (Deep Learning) or CS 5350/6350 (Machine Learning), we expect you will be able to keep up. 
 
 
 **<span style="color: black;">My advice:</span>** If you are interested in the course, **give it a  try**. We will spend the first two weeks going over the background and have a graded programming assignment about it. If you struggle with the background concepts and the first homework, you can withdraw---students may drop a course within the first two weeks of a given semester without any penalties. 
