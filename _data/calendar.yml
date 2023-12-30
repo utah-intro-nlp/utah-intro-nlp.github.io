@@ -50,7 +50,7 @@
       recording: ""
       slides:  ""
       readings: "" 
-      due: <span style="color:orange">HW1 due on 1/25</span>
+      due: <span style="color:orange">HW1 due (by 1/25)</span>
 
 - week: 4
   days:
@@ -103,7 +103,6 @@
       recording: ""
       slides:  ""
       readings: "" 
-      due: <span style="color:orange">HW3 (by 9/28)</span>
 
 - week: 7
   days:
@@ -117,10 +116,11 @@
     - date: 2/21
       format: Lecture (Ana)
       theme: cont.
-      topics: Placeholder 
+      topics: Buffer 
       recording: ""
       slides:  ""
       readings: "" 
+      due: <span style="color:orange">HW2 due (by 2/22)</span>
 
 - week: 8
   days:
