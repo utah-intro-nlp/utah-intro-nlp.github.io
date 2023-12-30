@@ -85,15 +85,15 @@ just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
     # Reference the "docs" collection
-    assignments:
+    #assignments:
       # Give the collection a name
-      name: Assignments
+    #  name: Assignments
       # Exclude the collection from the navigation
       # Supports true or false (default)
-      nav_exclude: false
+    #  nav_exclude: false
       # Exclude the collection from the search
       # Supports true or false (default)
-      search_exclude: false
+    #  search_exclude: false
 
 compress_html:
   clippings: all
