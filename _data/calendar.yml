@@ -236,9 +236,9 @@
 - week: 14
   days:
     - date: 4/8
-      format: cont.
-      theme: Vision and language; Speech
-      topics: <span style="color:purple">Prepare a user study</span>
+      format: 
+      theme: cont.
+      topics: Vision and language; Speech
       recording: ""
       slides:  ""
       readings: "" 
