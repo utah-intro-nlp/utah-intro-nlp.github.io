@@ -276,21 +276,21 @@
       format: 
       theme: 
       topics: Final course feedback; Final review
-      recording:  
-      slides:  
+      recording: "" 
+      slides:  ""
       readings:
       due: 
     - date: 4/24
       format: 
-      theme: <b><span style="color:green">Reading day (no class)</span></b>
-      topics: 
+      theme: 
+      topics: <b><span style="color:green">Reading day (no class)</span></b> 
       recording:  
       slides:  
       readings:
     - date: 4/26
       format: 
-      theme: <b><span style="color:purple">Final exam (10:30 am – 12:30 pm)</span></b>
-      topics: 
+      theme: 
+      topics: <b><span style="color:purple">Final exam (10:30 am – 12:30 pm)</span></b> 
       recording:  
       slides:  
       readings:
