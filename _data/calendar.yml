@@ -256,7 +256,7 @@
     - date: 4/15
       format: Lecture (Ana)
       theme: cont.
-      topics: (Mechanistic) interpretability; Explainability; Safety with the focus on diversity 
+      topics: (Mechanistic) interpretability; Explainability; Safety
       recording: ""
       slides:  ""
       readings: "" 
