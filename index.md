@@ -36,15 +36,13 @@ MoWe / 11:50am - 1:10pm	, [WEB L102](https://map.utah.edu/index.html?code=WEB), 
 
 ---
 
-Course description coming soon.
-
 Through this **website** we will share:
 * [Schedule](https://utah-intro-nlp.github.io/#calendar) & lecture materials (slides, recordings, readings)
 * [FAQ before enrolling](https://utah-intro-nlp.github.io/#faq-before-enrolling)
 
-Syllabus, announcements, communicating grades, policies, etc. are shared on **Canvas**. The current page you are on is **NOT** the syllabus. **Please review this syllabus carefully – students are responsible for understanding everything there!**
+[Syllabus](https://utah.instructure.com/courses/931084/assignments/syllabus), announcements, communicating grades, policies, etc. are shared on **Canvas**. The current page you are on is **NOT** the syllabus. **Please review this syllabus carefully – students are responsible for understanding everything there!**
 
-Communication will be done through **Piazza**. You will turn in your assignments to **Gradescope**. 
+Communication will be done through **[Piazza](https://piazza.com/utah/spring2024/cs6340001spring2024)**. You will turn in your assignments to **[Gradescope](https://www.gradescope.com/courses/690561)**. 
 
 Many links on this website can be accessed only with your gcloud.utah.edu account.
 
@@ -91,13 +89,6 @@ The calendar and readings are **tentative** and **subject to change**.
 
 {::options parse_block_html="true" /}
 
-<details><summary markdown="span"><b>What will you learn in this course? </b> [Click to expand!]</summary>
-
-TBD
-
-</details>                   
-<br/>
-
 <details><summary markdown="span"><b>How will you be evaluated?</b> [Click to expand!]</summary>
 
 Your performance in this course will be evaluated by:
@@ -116,7 +107,7 @@ The formal pre-requisite is C- or better in CS 3505.
 This course is designed for computer science majors. We expect that you:
 * ...are experienced with programming in Python – we won't be reviewing your your code directly and we expect you to figure out the implementation side on your own; we are here to help you with understanding concepts and translating ideas into pseudocode, 
 * ...are comfortable with basic calculus, probability, and linear algebra, 
-* ...have some familiarity with machine learning and deep learning, 
+* ...have some exposure to machine learning and deep learning,
 * ...can quickly pick up coding in [pytorch](https://pytorch.org/),
 * ...are interested in language and don't aim to just deepen your machine learning knowledge.
 
@@ -124,15 +115,9 @@ If you completed CS 5353/6353 (Deep Learning), CS 5350/6350 (Machine Learning), 
 
 **<span style="color: black;">Revisiting/polishing your knowledge.</span>** You can prepare by:
 
-1. There are a ton of Python resources for people with some programming experience. Check them out [here](https://wiki.python.org/moin/BeginnersGuide/Programmers). My colleagues suggest these: [1](https://www.learnpython.org/), [2](https://diveintopython3.net/), [3](https://snakify.org/en/), and [4](https://runestone.academy/ns/books/published/thinkcspy/index.html?mode=browsing).
+1. There are a ton of Python resources for people with some programming experience. Check them out [here](https://wiki.python.org/moin/BeginnersGuide/Programmers). I highly recommend these [slides](https://web.stanford.edu/class/cs224n/readings/cs224n-python-review-2023.pdf)/[colab](https://colab.research.google.com/drive/1hxWtr98jXqRDs_rZLZcEmX_hUcpDLq6e?usp=sharing) (caution: there are some typos) and my colleagues suggest these: [1](https://www.learnpython.org/), [2](https://diveintopython3.net/), [3](https://snakify.org/en/), and [4](https://runestone.academy/ns/books/published/thinkcspy/index.html?mode=browsing).
 
-2. Math and machine learning basics are nicely covered in the first part of the [Deep Learning book](https://www.deeplearningbook.org/). Obviously, you can use the same book to familiarize yourself with deep learning.
-
-3. [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) (highly recommended)
-
-4. [Practical Deep Learning for Coders by Fast.ai](https://course.fast.ai/) (3: Neural net foundations; 5: From-scratch model, 13: Backpropagation & MLP, 14: Backpropagation)
-
-5. [Getting started with NLP for absolute beginners](https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners) is good to familiarize yourself a bit with NLP. During the semester we will use [huggingface](https://huggingface.co/course).
+2. Math and machine learning basics are nicely covered in the first part of the [Deep Learning book](https://www.deeplearningbook.org/). Obviously, you can use the same book to familiarize yourself with deep learning. If you learn by coding then you will find this resource helpful [Practical Deep Learning for Coders by Fast.ai](https://course.fast.ai/) (3: Neural net foundations; 5: From-scratch model, 13: Backpropagation & MLP, 14: Backpropagation)
 
 </details>                   
 <br/>
