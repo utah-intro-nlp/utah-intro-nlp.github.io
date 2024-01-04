@@ -107,7 +107,7 @@ The formal pre-requisite is C- or better in CS 3505.
 This course is designed for computer science majors. We expect that you:
 * ...are experienced with programming in Python – we won't be reviewing your your code directly and we expect you to figure out the implementation side on your own; we are here to help you with understanding concepts and translating ideas into pseudocode, 
 * ...are comfortable with basic calculus, probability, and linear algebra, 
-* ...have some exposure to machine learning and deep learning,
+* ...can quickly pick up machine learning and deep learning,
 * ...can quickly pick up coding in [pytorch](https://pytorch.org/),
 * ...are interested in language and don't aim to just deepen your machine learning knowledge.
 
