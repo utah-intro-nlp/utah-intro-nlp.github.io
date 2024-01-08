@@ -1,5 +1,5 @@
 ---
-name: Ana Marasović
+name: Ana Marasović (she/her)
 role: Instructor
 email: ana.marasovic@utah.edu
 website: https://www.anamarasovic.com
