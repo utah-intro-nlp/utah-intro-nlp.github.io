@@ -7,7 +7,7 @@
       recording: ""
       slides:  ""
       readings: ""
-      due: <span style="color:orange">HW1 released</span>
+      due: 
     - date: 1/10
       format: Lecture (Ana)
       theme: <b>Elements of a Simple NLP System</b>
@@ -78,7 +78,7 @@
       recording: ""
       slides:  ""
       readings: "" 
-      due: <span style="color:orange">HW2 released</span>
+      due: 
     - date: 2/7
       format: Lecture (Ana)
       theme: cont.
@@ -86,7 +86,7 @@
       recording: ""
       slides:  ""
       readings: "" 
-      due: 
+      due: <span style="color:orange">HW2 due (by 2/8)</span>
 - week: 6
   days:
     - date: 2/12
@@ -120,7 +120,7 @@
       recording: ""
       slides:  ""
       readings: "" 
-      due: <span style="color:orange">HW2 due (by 2/22)</span>
+      due: <span style="color:orange">HW3 due (by 2/22)</span>
 
 - week: 8
   days:
@@ -170,7 +170,7 @@
       recording: ""
       slides:  ""
       readings: "" 
-      due: <span style="color:orange">HW3 released</span>
+      due: 
     - date: 3/13
       format: Demo
       theme: cont.

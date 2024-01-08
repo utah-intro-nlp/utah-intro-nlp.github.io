@@ -93,10 +93,10 @@ The calendar and readings are **tentative** and **subject to change**.
 
 Your performance in this course will be evaluated by:
 
-* [programming homework assignments](https://drive.google.com/drive/folders/1rL_NBVbnnbDuewV-_WnslwlNXB5hFUgg?usp=sharing) (30%)
+* [programming homework assignments](https://drive.google.com/drive/folders/1rL_NBVbnnbDuewV-_WnslwlNXB5hFUgg?usp=sharing) (40%)
 * [final project](https://drive.google.com/drive/folders/1vc4UddSTgBZroD542DOmX-I-QWaXUEj0?usp=sharing) (30%)
-* midterm exam (20%)
-* final exam (20%)
+* midterm exam (15%)
+* final exam (15%)
 </details>                   
 <br/>
 
