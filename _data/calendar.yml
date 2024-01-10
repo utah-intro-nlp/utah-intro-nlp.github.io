@@ -11,8 +11,8 @@
     - date: 1/10
       format: Lecture (Ana)
       theme: <b>Elements of a Simple NLP System</b>
-      topics: Machine learning basics 
-      recording: ""
+      topics: Machine learning basics; Perceptron 
+      recording: "https://youtu.be/50rvf0O5USQ"
       slides:  "https://docs.google.com/presentation/d/1UUWyGlg7AjN-EzgxpvhpgFDweugy_wK4ZMPUs1MgMKc/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/16Dxu-6U2FyzJpSOFWCoLvk24hcQLmmvMSDhMdv2EB_E/edit#bookmark=id.xfkfebud4pf2"
 - week: 2
@@ -27,7 +27,7 @@
     - date: 1/17
       format: Lecture (Ana)
       theme: cont.
-      topics: Tokenization; Morphology
+      topics: Logistic regression; Tokenization; Morphology
       recording: ""
       slides:  ""
       readings: ""
