@@ -4,7 +4,7 @@
       format: Lecture (Ana)
       theme: 
       topics: Course Logistics; Intro to NLP
-      recording: https://youtu.be/YTv_wz66FdY"
+      recording: "https://youtu.be/YTv_wz66FdY"
       slides:  "https://docs.google.com/presentation/d/1FjXh1YvT2cTgUtytr6YfJAmtP1BUx5U_8YASB5ZEyis/edit?usp=drive_link"
       readings: "https://docs.google.com/document/d/16Dxu-6U2FyzJpSOFWCoLvk24hcQLmmvMSDhMdv2EB_E/edit#bookmark=id.t7anxom4t6ak"
       due: 
@@ -13,7 +13,7 @@
       theme: <b>Elements of a Simple NLP System</b>
       topics: Machine learning basics 
       recording: ""
-      slides:  ""
+      slides:  "https://docs.google.com/presentation/d/1UUWyGlg7AjN-EzgxpvhpgFDweugy_wK4ZMPUs1MgMKc/edit?usp=sharing"
       readings: ""
 - week: 2
   days:
