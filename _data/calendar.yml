@@ -38,7 +38,7 @@
     - date: 1/22
       format: 
       theme: cont.
-      topics: Features; n-grams; Word embeddings
+      topics: Word embeddings
       recording: ""
       slides:  ""
       readings: ""  
