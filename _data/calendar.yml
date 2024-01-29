@@ -59,7 +59,7 @@
       theme: <b>Language Modeling (LM)</b>
       topics: n-gram LM; RNNs and their shortcomings
       recording: ""
-      slides:  ""
+      slides:  "https://docs.google.com/presentation/d/1CqUuIBp_Z73YW9hEK2toCivUZS31TeODM0swFFgErZo/edit?usp=sharing"
       readings: "" 
     - date: 1/31  
       format: Lecture (Ana)
