@@ -64,7 +64,7 @@
     - date: 1/31  
       format: Lecture (Ana)
       theme: 	<b>Machine Translation (MT)</b>
-      topics: Statistical MT; Conditional text generation; Decoding methods
+      topics: MT; Conditional generation; Decoding methods
       recording: ""
       slides:  "https://docs.google.com/presentation/d/130mlxlEeMQGsMY5XAx1v9k9LjU41rdqVag4sjxK4xa0/edit?usp=sharing"
       readings: "" 
