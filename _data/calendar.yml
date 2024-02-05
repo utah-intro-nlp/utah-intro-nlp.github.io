@@ -76,7 +76,7 @@
       theme: <b>Modern (Large) Language Models</b>
       topics: Attention; Self-attention (SA); Multi-headed SA; Positional embeddings; Transformers
       recording: ""
-      slides:  ""
+      slides:  "https://docs.google.com/presentation/d/1BG8PJsCE00jSGjbEDgWEToCLZRgkehfbPWerBIsMHzA/edit?usp=sharing"
       readings: "" 
       due: 
     - date: 2/7
