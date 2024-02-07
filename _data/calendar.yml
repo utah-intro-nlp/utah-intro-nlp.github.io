@@ -84,7 +84,7 @@
       theme: cont.
       topics: Pretraining; Decoders (GPT); MLM; Encoders (BERT); Encoder-Decoders (T5); Finetuning (FT)
       recording: ""
-      slides:  ""
+      slides:  "https://docs.google.com/presentation/d/1GT_FRec7EtTjUjGR4-9uKO-i7j0h9VbgtW_AiYzYjOI/edit?usp=sharing"
       readings: "" 
       due: <span style="color:orange">HW2 due (by 2/8)</span>
 - week: 6
