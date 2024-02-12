@@ -94,7 +94,7 @@
       theme: cont.
       topics: In-context learning; Instruction FT (FLAN-T5); Learning from human feedback (LLaMA-2)
       recording: ""
-      slides:  ""
+      slides:  "https://docs.google.com/presentation/d/1SPg0frfVU8QFvG7USZPJ9EFFHFjWgWdLVPNl7Gn-VO8/edit?usp=sharing"
       readings: "" 
     - date: 2/14
       format: Lecture (Ana)
