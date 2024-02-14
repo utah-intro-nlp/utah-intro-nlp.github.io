@@ -92,16 +92,16 @@
     - date: 2/12
       format: 
       theme: cont.
-      topics: In-context learning; Instruction FT (FLAN-T5); Learning from human feedback (LLaMA-2)
+      topics: "In-context learning; Instruction FT (FLAN-T5)"
       recording: ""
       slides:  "https://docs.google.com/presentation/d/1SPg0frfVU8QFvG7USZPJ9EFFHFjWgWdLVPNl7Gn-VO8/edit?usp=sharing"
       readings: "" 
     - date: 2/14
       format: Lecture (Ana)
       theme: <b>Applications</b> 
-      topics: Question Answering & Retrieval; Relation extraction; Summarization
+      topics: "Instruction FT (cont.); Learning from human feedback (LLaMA-2)"
       recording: ""
-      slides:  ""
+      slides:  "https://docs.google.com/presentation/d/14z81gyFCQKwb7TyhztF049_5WyE4XOg33nzOAzEE9kk/edit?usp=sharing"
       readings: "" 
 
 - week: 7
@@ -116,7 +116,7 @@
     - date: 2/21
       format: Lecture (Ana)
       theme: cont.
-      topics: TBD 
+      topics: Question Answering & Retrieval; Relation extraction; Summarization
       recording: ""
       slides:  ""
       readings: "" 
