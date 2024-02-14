@@ -98,7 +98,7 @@
       readings: "" 
     - date: 2/14
       format: Lecture (Ana)
-      theme: <b>Applications</b> 
+      theme: cont.
       topics: "Instruction FT (cont.); Learning from human feedback (LLaMA-2)"
       recording: ""
       slides:  "https://docs.google.com/presentation/d/14z81gyFCQKwb7TyhztF049_5WyE4XOg33nzOAzEE9kk/edit?usp=sharing"
@@ -115,7 +115,7 @@
       readings: 
     - date: 2/21
       format: Lecture (Ana)
-      theme: cont.
+      theme: <b>Applications</b> 
       topics: Question Answering & Retrieval; Relation extraction; Summarization
       recording: ""
       slides:  ""
@@ -152,7 +152,7 @@
       slides:  
       readings:
       due: 
-    - date: 3/4
+    - date: 3/6
       format: Break
       theme: 
       topics: <b><span style="color:green">Spring Break (no class)</span></b>  
