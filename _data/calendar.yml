@@ -75,17 +75,17 @@
       format: 
       theme: <b>Modern (Large) Language Models</b>
       topics: Attention; Self-attention (SA); Multi-headed SA; Positional embeddings; Transformers
-      recording: ""
+      recording: "https://youtu.be/_be_LA2Tmrg?si=2YJt91fsfabHntSC"
       slides:  "https://docs.google.com/presentation/d/1BG8PJsCE00jSGjbEDgWEToCLZRgkehfbPWerBIsMHzA/edit?usp=sharing"
-      readings: "" 
+      readings: "https://docs.google.com/document/d/16Dxu-6U2FyzJpSOFWCoLvk24hcQLmmvMSDhMdv2EB_E/edit#bookmark=id.cpledpj41z5" 
       due: 
     - date: 2/7
       format: Lecture (Ana)
       theme: cont.
       topics: Pretraining; Decoders (GPT); MLM; Encoders (BERT); Encoder-Decoders (T5); Finetuning (FT)
-      recording: ""
+      recording: "https://youtu.be/x3sAlTERozo?si=MYqjiFExGkigXWb0"
       slides:  "https://docs.google.com/presentation/d/1GT_FRec7EtTjUjGR4-9uKO-i7j0h9VbgtW_AiYzYjOI/edit?usp=sharing"
-      readings: "" 
+      readings: "https://docs.google.com/document/d/16Dxu-6U2FyzJpSOFWCoLvk24hcQLmmvMSDhMdv2EB_E/edit#bookmark=id.6vo08d5lnqzy" 
       due: <span style="color:orange">HW2 due (by 2/8)</span>
 - week: 6
   days:
@@ -93,16 +93,16 @@
       format: 
       theme: cont.
       topics: "In-context learning; Instruction FT (FLAN-T5)"
-      recording: ""
+      recording: "https://youtu.be/fDzCBKArdYg?si=euM2jltpDolbpOU6"
       slides:  "https://docs.google.com/presentation/d/1SPg0frfVU8QFvG7USZPJ9EFFHFjWgWdLVPNl7Gn-VO8/edit?usp=sharing"
-      readings: "" 
+      readings: "https://docs.google.com/document/d/16Dxu-6U2FyzJpSOFWCoLvk24hcQLmmvMSDhMdv2EB_E/edit#bookmark=id.ye6glj485idf" 
     - date: 2/14
       format: Lecture (Ana)
       theme: cont.
       topics: "Instruction FT (cont.); Learning from human feedback (LLaMA-2)"
-      recording: ""
+      recording: "https://youtu.be/PEdgiaz05CI?si=fP4KX4W6GvYMFmrB"
       slides:  "https://docs.google.com/presentation/d/14z81gyFCQKwb7TyhztF049_5WyE4XOg33nzOAzEE9kk/edit?usp=sharing"
-      readings: "" 
+      readings: "https://docs.google.com/document/d/16Dxu-6U2FyzJpSOFWCoLvk24hcQLmmvMSDhMdv2EB_E/edit#bookmark=id.8e8z698yi7p" 
 
 - week: 7
   days:
