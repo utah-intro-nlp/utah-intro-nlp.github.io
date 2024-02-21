@@ -116,7 +116,7 @@
     - date: 2/21
       format: Lecture (Ana)
       theme: <b>Applications</b> 
-      topics: Question Answering & Retrieval; Relation extraction; Summarization
+      topics: "Taskification and Valid Benchmarks"
       recording: ""
       slides:  ""
       readings: "" 
