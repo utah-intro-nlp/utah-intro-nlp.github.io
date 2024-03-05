@@ -166,22 +166,11 @@
     - date: 3/11
       format: Lecture (Ana)
       theme: <b>Linguistic Structure Prediction</b> 
-      topics: Motivation
-      recording: ""
-      slides:  ""
-      readings: "" 
-      due: 
-    - date: 3/13
-      format: Demo
-      theme: cont.
       topics: Syntax; Context free-grammars; Constituency parsing 
       recording: ""
       slides:  ""
       readings: "" 
-
-- week: 11
-  days:
-    - date: 3/18
+    - date: 3/13
       format: Lecture (Ana)
       theme: cont. 
       topics: Dependency parsing 
@@ -189,10 +178,20 @@
       slides:  "https://docs.google.com/presentation/d/1iusUH7H6GwNPZv_s6spaSNO649dWDSTI--BYsLw181c/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.sjjwcqi16e8s"
       due:
-    - date: 3/20
-      format: 
+
+- week: 11
+  days:
+    - date: 3/18
+      format: Lecture (Ana)
       theme: cont.
       topics: Part-of-speech tagging, Named entity recognition; Hiden Markov models
+      recording: ""
+      slides:  ""
+      readings: "" 
+    - date: 3/20
+      format: Lecture (Ana)
+      theme: cont.
+      topics: Viterbi algorithm; Forward/backward probabilities; Conditional Random Fields
       recording: ""
       slides:  ""
       readings: "" 
@@ -200,16 +199,16 @@
 - week: 12
   days:
     - date: 3/25
-      format: 
+      format: Lecture (Ana)
       theme: cont.
-      topics: Viterbi algorithm; Forward/backward probabilities; Conditional Random Fields
+      topics: Logical semantics; Predicate-argument semantics
       recording: ""
       slides:  ""
       readings: "" 
     - date: 3/27
       format: Lecture (Ana)
       theme: cont.
-      topics: Logical semantics; Predicate-argument semantics
+      topics: Coreference resolution; Discourse
       recording: ""
       slides:  ""
       readings: "" 
@@ -220,14 +219,14 @@
     - date: 4/1
       format: 
       theme: cont.
-      topics: Coreference resolution; Discourse
+      topics: Probing
       recording: ""
       slides:  ""
       readings: "" 
     - date: 4/3
       format: 
-      theme: <b>Beyond Text</b> 
-      topics: Pragmatics
+      theme: <b>Applications</b> 
+      topics: Question Answering; Relation extraction (maybe)
       recording: ""
       slides:  ""
       readings: "" 
@@ -238,15 +237,15 @@
     - date: 4/8
       format: 
       theme: cont.
-      topics: Vision and language; Speech
+      topics: Summarization; Statistical MT (maybe)
       recording: ""
       slides:  ""
       readings: "" 
 
     - date: 4/10
       format: 
-      theme: <b>Responsible NLP</b>
-      topics: Data transparency; Reliable evaluation; Policy
+      theme: <b>Beyond English, Beyond Text</b>
+      topics: Multilinguality and Multimodality
       recording: ""
       slides:  ""
       readings: "" 
@@ -256,14 +255,14 @@
     - date: 4/15
       format: Lecture (Ana)
       theme: cont.
-      topics: (Mechanistic) interpretability; Explainability; Safety
+      topics: Social bias in AI 
       recording: ""
       slides:  ""
       readings: "" 
     - date: 4/17
       format: 
       theme: cont.
-      topics: TBD
+      topics: Explainability 
       recording: ""
       slides:  ""
       readings: "" 
