@@ -166,14 +166,14 @@
     - date: 3/11
       format: Lecture (Ana)
       theme: <b>Linguistic Structure Prediction</b> 
-      topics: Syntax; Context free-grammars; Constituency parsing 
+      topics: Syntax; Part-of-speech tagging, Named entity recognition; Hiden Markov models 
       recording: ""
       slides:  ""
       readings: "" 
     - date: 3/13
       format: Lecture (Ana)
       theme: cont. 
-      topics: Dependency parsing 
+      topics: Viterbi algorithm; Forward/backward probabilities; Conditional Random Fields 
       recording: "https://youtu.be/M5rDeOMJOFo" 
       slides:  "https://docs.google.com/presentation/d/1iusUH7H6GwNPZv_s6spaSNO649dWDSTI--BYsLw181c/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.sjjwcqi16e8s"
@@ -184,14 +184,14 @@
     - date: 3/18
       format: Lecture (Ana)
       theme: cont.
-      topics: Part-of-speech tagging, Named entity recognition; Hiden Markov models
+      topics: Context free-grammars; Constituency parsing
       recording: ""
       slides:  ""
       readings: "" 
     - date: 3/20
       format: Lecture (Ana)
       theme: cont.
-      topics: Viterbi algorithm; Forward/backward probabilities; Conditional Random Fields
+      topics: Dependency parsing
       recording: ""
       slides:  ""
       readings: "" 
