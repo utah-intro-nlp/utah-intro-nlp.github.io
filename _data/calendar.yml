@@ -166,7 +166,7 @@
     - date: 3/11
       format: Lecture (Ana)
       theme: <b>Linguistic Structure Prediction</b> 
-      topics: Syntax; Part-of-speech tagging, Named entity recognition; Hiden Markov models 
+      topics: Part-of-speech tagging, Named entity recognition; Hiden Markov models 
       recording: ""
       slides:  ""
       readings: "" 
@@ -184,7 +184,7 @@
     - date: 3/18
       format: Lecture (Ana)
       theme: cont.
-      topics: Context free-grammars; Constituency parsing
+      topics: Syntax; Context free-grammars; Constituency parsing
       recording: ""
       slides:  ""
       readings: "" 
