@@ -173,7 +173,7 @@
     - date: 3/13
       format: Lecture (Ana)
       theme: cont. 
-      topics: HMM - Parameter Estimation and Inference (Viterbi algorith)  
+      topics: HMM - Parameter Estimation and Inference (Viterbi algorithm)  
       recording: "https://youtu.be/M5rDeOMJOFo" 
       slides:  "https://docs.google.com/presentation/d/1iusUH7H6GwNPZv_s6spaSNO649dWDSTI--BYsLw181c/edit?usp=sharing"
       readings: "https://docs.google.com/document/d/1KPXFShp8M76DJgBYnUY7w_CYYbihFzFBtru0YN3uSUE/edit#bookmark=id.sjjwcqi16e8s"
