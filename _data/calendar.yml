@@ -168,7 +168,7 @@
       theme: <b>Linguistic Structure Prediction</b> 
       topics: Part-of-speech tagging, Named entity recognition; Hiden Markov Models (Intro) 
       recording: ""
-      slides:  ""
+      slides:  "https://docs.google.com/presentation/d/1EyDcke0X2PLPKWJkTawTV6FjxLUMCHvr2NT5RAxhyV8/edit?usp=sharing"
       readings: "" 
     - date: 3/13
       format: Lecture (Ana)
