@@ -226,7 +226,7 @@
     - date: 4/3
       format: 
       theme: <b>Applications</b> 
-      topics: Question Answering; Relation extraction (maybe)
+      topics: Question Answering; Relation extraction 
       recording: ""
       slides:  ""
       readings: "" 
@@ -237,7 +237,7 @@
     - date: 4/8
       format: 
       theme: cont.
-      topics: Summarization; Statistical MT (maybe)
+      topics: Summarization 
       recording: ""
       slides:  ""
       readings: "" 
