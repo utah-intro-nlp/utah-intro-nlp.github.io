@@ -169,15 +169,16 @@
       topics: Part-of-speech tagging, Named entity recognition; Hiden Markov Models (Intro) 
       recording: ""
       slides:  "https://docs.google.com/presentation/d/1EyDcke0X2PLPKWJkTawTV6FjxLUMCHvr2NT5RAxhyV8/edit?usp=sharing"
-      readings: "" 
+      readings: "https://youtu.be/5N1sUzgWnJU" 
     - date: 3/13
       format: Lecture (Ana)
       theme: cont. 
       topics: HMM - Parameter Estimation and Inference (Viterbi algorithm)  
-      recording: "" 
+      recording: "https://youtu.be/x1ptIqDQfL0" 
       slides:  "https://docs.google.com/presentation/d/1rJLRyXaSApjNOjJJwkcXVPiWc9s0wcrrLZIXU82JYNc/edit?usp=sharing"
       readings: ""
       due:
+
 
 - week: 11
   days:
@@ -187,12 +188,12 @@
       topics: Syntax; Context free-grammars; Constituency parsing
       recording: ""
       slides:  "https://docs.google.com/presentation/d/1_FaHCirdrKyCwhI4NAVWrsbwJCutJABF0Xw93QgueFQ/edit?usp=sharing"
-      readings: "" 
+      readings: "https://youtu.be/j75QhsJEsUs" 
     - date: 3/20
       format: Lecture (Ana)
       theme: cont.
       topics: Dependency parsing
-      recording: ""
+      recording: "https://youtu.be/svzx_hNnk3Q"
       slides:  "https://docs.google.com/presentation/d/1AW_FuLEho6YWRtWwADMAZ9oRaoSUbENQaKSmnPISR38/edit?usp=sharing"
       readings: "" 
 
