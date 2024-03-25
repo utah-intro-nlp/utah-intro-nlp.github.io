@@ -202,9 +202,9 @@
     - date: 3/25
       format: Lecture (Ana)
       theme: cont.
-      topics: Logical semantics; Predicate-argument semantics
+      topics: Semantic parsing; Predicate-argument semantics
       recording: ""
-      slides:  ""
+      slides:  "https://docs.google.com/presentation/d/1CFGU1_q0wgWiCjLcyIVMKYygPKuMpKIUEOH1L4znqYA/edit?usp=sharing"
       readings: "" 
     - date: 3/27
       format: Lecture (Ana)
