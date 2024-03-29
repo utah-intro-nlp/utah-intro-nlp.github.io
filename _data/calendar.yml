@@ -186,9 +186,9 @@
       format: Lecture (Ana)
       theme: cont.
       topics: Syntax; Context free-grammars; Constituency parsing
-      recording: ""
+      recording: "https://youtu.be/j75QhsJEsUs"
       slides:  "https://docs.google.com/presentation/d/1_FaHCirdrKyCwhI4NAVWrsbwJCutJABF0Xw93QgueFQ/edit?usp=sharing"
-      readings: "https://youtu.be/j75QhsJEsUs" 
+      readings: "" 
     - date: 3/20
       format: Lecture (Ana)
       theme: cont.
@@ -203,14 +203,14 @@
       format: Lecture (Ana)
       theme: cont.
       topics: Semantic parsing; Predicate-argument semantics
-      recording: ""
+      recording: "https://youtu.be/5AsNOn13AiU"
       slides:  "https://docs.google.com/presentation/d/1CFGU1_q0wgWiCjLcyIVMKYygPKuMpKIUEOH1L4znqYA/edit?usp=sharing"
       readings: "" 
     - date: 3/27
       format: Lecture (Ana)
       theme: cont.
       topics: Coreference resolution; Discourse
-      recording: ""
+      recording: "https://youtu.be/HMAyzy_pUBI"
       slides:  "https://docs.google.com/presentation/d/1uwjX6EotyQH5KNnV-RloPI51_iIvLI3GVlwszMhwD1s/edit?usp=sharing"
       readings: "" 
       due: <span style="color:orange">HW4 due (by 3/28)</span>
