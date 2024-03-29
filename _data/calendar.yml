@@ -228,9 +228,9 @@
       format: 
       theme: 
       topics:  No class
-      recording: ""
-      slides:  ""
-      readings: "" 
+      recording:
+      slides:  
+      readings: 
 
 
 - week: 14
