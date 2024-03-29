@@ -226,8 +226,8 @@
       readings: "" 
     - date: 4/3
       format: 
-      theme: <b>Applications</b> 
-      topics: Question Answering; Relation extraction 
+      theme: 
+      topics:  No class
       recording: ""
       slides:  ""
       readings: "" 
@@ -238,15 +238,15 @@
     - date: 4/8
       format: 
       theme: cont.
-      topics: Summarization 
+      topics: Question Answering; Relation extraction
       recording: ""
       slides:  ""
       readings: "" 
 
     - date: 4/10
       format: 
-      theme: <b>Beyond English, Beyond Text</b>
-      topics: Multilinguality and Multimodality
+      theme: cont.
+      topics: Summarization
       recording: ""
       slides:  ""
       readings: "" 
@@ -255,15 +255,15 @@
   days:
     - date: 4/15
       format: Lecture (Ana)
-      theme: <b>Responsible NLP</b>
-      topics: Social bias in AI 
+      theme: <b>Beyond English, Beyond Text</b>
+      topics: Multilinguality and Multimodality
       recording: ""
       slides:  ""
       readings: "" 
     - date: 4/17
       format: 
-      theme: cont.
-      topics: Explainability 
+      theme: <b>Responsible NLP</b>
+      topics: Safety, bias, explainability, etc. 
       recording: ""
       slides:  ""
       readings: "" 
