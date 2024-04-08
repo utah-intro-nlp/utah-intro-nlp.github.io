@@ -221,8 +221,8 @@
       format: 
       theme: cont.
       topics: Probing
-      recording: ""
-      slides:  ""
+      recording: "https://youtu.be/PQeDrCFNuZI"
+      slides:  "https://github.com/amarasovic/presentations/blob/master/guest_lecture_uw_cse517_march_2020.pdf"
       readings: "" 
     - date: 4/3
       format: 
@@ -239,7 +239,7 @@
       format: 
       theme: cont.
       topics: Question Answering; Relation extraction
-      recording: ""
+      recording: "https://youtu.be/W-ikeePXsOk"
       slides:  "https://docs.google.com/presentation/d/1zsVfzZ7cCV4q9N_p-KAU0hMYBK63h3hLguSpvnZ8jTs/edit?usp=sharing"
       readings: "" 
 
