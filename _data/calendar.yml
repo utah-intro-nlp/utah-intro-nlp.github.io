@@ -238,7 +238,7 @@
     - date: 4/8
       format: 
       theme: cont.
-      topics: Question Answering; Relation extraction
+      topics: Question Answering 
       recording: "https://youtu.be/W-ikeePXsOk"
       slides:  "https://docs.google.com/presentation/d/1zsVfzZ7cCV4q9N_p-KAU0hMYBK63h3hLguSpvnZ8jTs/edit?usp=sharing"
       readings: "" 
@@ -248,7 +248,7 @@
       theme: cont.
       topics: Summarization
       recording: ""
-      slides:  ""
+      slides:  "https://docs.google.com/presentation/d/1TyNp7gElbB7rw-4v2iR06gDzpBvEcv6Yq3PuweqfWMw/edit?usp=sharing"
       readings: "" 
 
 - week: 15
