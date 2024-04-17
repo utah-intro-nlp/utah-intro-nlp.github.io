@@ -263,9 +263,9 @@
     - date: 4/17
       format: 
       theme: <b>Responsible NLP</b>
-      topics: Safety, bias, explainability, etc. 
+      topics: Topics in Responsible AI
       recording: ""
-      slides:  ""
+      slides:  "https://docs.google.com/presentation/d/1dZF4cBuhfyZLQMjTv9oZobw64AnDvqpgpoAzOSBjCwQ/edit?usp=sharing"
       readings: "" 
       due: <span style="color:orange">FP due (by 4/21)</span>
 
