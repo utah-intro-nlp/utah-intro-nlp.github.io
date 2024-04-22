@@ -241,7 +241,7 @@
       topics: Question Answering 
       recording: "https://youtu.be/W-ikeePXsOk"
       slides:  "https://docs.google.com/presentation/d/1zsVfzZ7cCV4q9N_p-KAU0hMYBK63h3hLguSpvnZ8jTs/edit?usp=sharing"
-      readings: "" 
+      readings: "https://docs.google.com/document/d/16Dxu-6U2FyzJpSOFWCoLvk24hcQLmmvMSDhMdv2EB_E/edit#bookmark=id.jthxhgy5efc9" 
 
     - date: 4/10
       format: 
@@ -249,7 +249,7 @@
       topics: Summarization
       recording: "https://youtu.be/1_YYgCBFqlE?feature=shared"
       slides:  "https://docs.google.com/presentation/d/1TyNp7gElbB7rw-4v2iR06gDzpBvEcv6Yq3PuweqfWMw/edit?usp=sharing"
-      readings: "" 
+      readings: "https://docs.google.com/document/d/16Dxu-6U2FyzJpSOFWCoLvk24hcQLmmvMSDhMdv2EB_E/edit#bookmark=id.cq3raaomfp2" 
 
 - week: 15
   days:
@@ -259,14 +259,14 @@
       topics: Multilinguality and Multimodality
       recording: "https://youtu.be/6_uUAXTWffE"
       slides:  "https://docs.google.com/presentation/d/1IeTpUUCoGfgxEdOHf-x8nD4J6fr0RWhjOISkGgyN_pU/edit?usp=sharing"
-      readings: "" 
+      readings: "https://docs.google.com/document/d/16Dxu-6U2FyzJpSOFWCoLvk24hcQLmmvMSDhMdv2EB_E/edit#bookmark=id.rsv0drcqb922" 
     - date: 4/17
       format: 
       theme: <b>Responsible NLP</b>
       topics: Topics in Responsible AI
-      recording: ""
+      recording: "https://youtu.be/hBSVe-llVRU?feature=shared"
       slides:  "https://docs.google.com/presentation/d/1dZF4cBuhfyZLQMjTv9oZobw64AnDvqpgpoAzOSBjCwQ/edit?usp=sharing"
-      readings: "" 
+      readings: "https://docs.google.com/document/d/16Dxu-6U2FyzJpSOFWCoLvk24hcQLmmvMSDhMdv2EB_E/edit#bookmark=id.jxpx2uwltebd" 
       due: <span style="color:orange">FP due (by 4/21)</span>
 
 
