@@ -195,7 +195,7 @@
       topics: Dependency parsing
       recording: "https://youtu.be/svzx_hNnk3Q"
       slides:  "https://docs.google.com/presentation/d/1AW_FuLEho6YWRtWwADMAZ9oRaoSUbENQaKSmnPISR38/edit?usp=sharing"
-      readings: "" 
+      readings: "https://docs.google.com/document/d/16Dxu-6U2FyzJpSOFWCoLvk24hcQLmmvMSDhMdv2EB_E/edit#bookmark=id.pkrrbksl4yvb" 
 
 - week: 12
   days:
@@ -205,14 +205,14 @@
       topics: Semantic parsing; Predicate-argument semantics
       recording: "https://youtu.be/5AsNOn13AiU"
       slides:  "https://docs.google.com/presentation/d/1CFGU1_q0wgWiCjLcyIVMKYygPKuMpKIUEOH1L4znqYA/edit?usp=sharing"
-      readings: "" 
+      readings: "https://docs.google.com/document/d/16Dxu-6U2FyzJpSOFWCoLvk24hcQLmmvMSDhMdv2EB_E/edit#bookmark=id.ixnyg7w3nolw" 
     - date: 3/27
       format: Lecture (Ana)
       theme: cont.
       topics: Coreference resolution; Discourse
       recording: "https://youtu.be/HMAyzy_pUBI"
       slides:  "https://docs.google.com/presentation/d/1uwjX6EotyQH5KNnV-RloPI51_iIvLI3GVlwszMhwD1s/edit?usp=sharing"
-      readings: "" 
+      readings: "https://docs.google.com/document/d/16Dxu-6U2FyzJpSOFWCoLvk24hcQLmmvMSDhMdv2EB_E/edit#bookmark=id.3bjcguhiz27h" 
       due: <span style="color:orange">HW4 due (by 3/28)</span>
 
 - week: 13
@@ -222,7 +222,7 @@
       theme: cont.
       topics: Probing
       recording: "https://youtu.be/PQeDrCFNuZI"
-      slides:  "https://github.com/amarasovic/presentations/blob/master/guest_lecture_uw_cse517_march_2020.pdf"
+      slides:  "https://drive.google.com/file/d/1r0PMJ4RT5R7OU8x67BeuOvbbuPbzNuoo/view?usp=drive_link"
       readings: "" 
     - date: 4/3
       format: 
